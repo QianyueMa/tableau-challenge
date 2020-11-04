@@ -1,5 +1,5 @@
-# tableau-challenge
-Using Tableau, to aggregate the data found in the Citi Bike Trip History Logs and to design 2-5 visualizations for each discovered phenomena (4-10+ total).
+# Tableau Analytics - Citi Bike Analytics: the Quarter 2 in 2019 vs 2020 
+Using Tableau, to aggregate the data found in the Citi Bike Trip History Logs in the Q2 in 2019 vs 2020 and to design visualizations for each discovered phenomenon, in order to see what changes in Citi Bike usage have occurred in 2020 which might have been induced by COVID-19.
 
 ![Citi-Bikes](Images/CitiBike.jpg)
 
@@ -14,21 +14,21 @@ Citi Bike publish [downloadable files of Citi Bike trip data](https://s3.amazona
 
 
 ## Tasks
-Choose any time span with available data, 
+Choose any time span with available data (here choosing the Quarter 2 in 2019 & 2020),
 * to **aggregate the data** found in the Citi Bike Trip History Logs. Note: 
 	- Don't just assume Tableau is the best tool for the job.
 	- The CSV format might have changed since 2013.
 	- Test and develop with a smaller testing data. 
 	- Keep a close eye for obvious outliers or false data. Not everyone who signs up for the program is answering honestly.
 	- In answering the question of "why" a phenomenon is occurring, consider adding other pieces of information on socioeconomic or other geographic data. Tableau has a map "layer" feature that you may find handy.
-	- Pay attention to labels. What exactly is "time duration"? What's the value of "age of birth"? The calculated fields are almost certainly needed.
+	- Pay attention to labels. What exactly is "time duration"? What's the value of "year of birth"? The calculated fields are almost certainly needed.
 * to design 2-5 **visualizations** for each discovered phenomena (4-10+ total)
 * to include a **map** of one of the following visualizations:
 	* A static map that plots all bike stations with a visual indication of the most popular locations to start and end a journey with zip code data overlaid on top.
 	* A dynamic map that shows how each station's popularity changes over time (by month and year). Again, with zip code data overlaid on the map.
 * to use the visualizations to design a dashboard for each phenomena, while the dashboards should be accompanied with an analysis explaining why the phenomena may be occurring.
-* to create a **Tableau story **that brings together the visualizations, requested maps, and dashboards. 
-	- This is the final presentation, and make sure the presentation is general-public-friendly, professional, and visually compelling. So, spend the appropriate time thinking through decisions on color schemes, fonts, and visual story-telling. 
+* to create a **Tableau story** that brings together the visualizations, requested maps, and dashboards. 
+	- This is the final presentation, and make sure the presentation is general-public-friendly, professional, and visually compelling. So, spend the appropriate time thinking through decisions on colour schemes, fonts, and visual story-telling. 
 	- The Citi Bike program has a clear visual footprint. As a suggestion, look for ways to have the data visualizations match their aesthetic tones.
 
 
@@ -56,9 +56,9 @@ The questions of interest include:
 ## Navigation of the repo: Submission
 
 The Tableau workbook includes: 
-  * 4-10+ Visualizations 
-  * 2 Dashboards
-  * 1 City Official Map
+  * 12 Visualizations 
+  * 4 Dashboards
+  * 2 City Official Map
   * 1 Story 
   * A text or markdown file with the analysis on the phenomenons uncovered from the data.
 
