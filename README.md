@@ -26,7 +26,7 @@ Choose any time span with available data (here choosing the Quarter 2 in 2019 & 
 * to include a **map** of one of the following visualizations:
 	* A static map that plots all bike stations with a visual indication of the most popular locations to start and end a journey with zip code data overlaid on top.
 	* A dynamic map that shows how each station's popularity changes over time (by month and year). Again, with zip code data overlaid on the map.
-* to use the visualizations to design a dashboard for each phenomena, while the dashboards should be accompanied with an analysis explaining why the phenomena may be occurring.
+* to use the visualizations to design a **dashboard** for each phenomenon, while the dashboards should be accompanied with an analysis explaining why the phenomena may be occurring.
 * to create a **Tableau story** that brings together the visualizations, requested maps, and dashboards. 
 	- This is the final presentation, and make sure the presentation is general-public-friendly, professional, and visually compelling. So, spend the appropriate time thinking through decisions on colour schemes, fonts, and visual story-telling. 
 	- The Citi Bike program has a clear visual footprint. As a suggestion, look for ways to have the data visualizations match their aesthetic tones.
