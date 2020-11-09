@@ -61,5 +61,7 @@ The Tableau workbook includes:
   * 2 City Official Map
   * 1 Story 
   * A text or markdown file with the analysis on the phenomenons uncovered from the data.
+  
+The published Tableau workbook in the Tableau Public profile is [here](https://public.tableau.com/profile/qianyue.ma#!/vizhome/citibike_analytics_16048902264600/CompeleAnalysis).
 
 
